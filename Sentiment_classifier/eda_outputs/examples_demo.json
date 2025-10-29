@@ -1,0 +1,92 @@
+[
+  {
+    "text": "sw good excellent love amazing 136",
+    "pred": "positive",
+    "prob": [
+      0.035093370450144455,
+      0.037084358836936636,
+      0.9278222707129189
+    ]
+  },
+  {
+    "text": "sw bad terrible hate awful 58",
+    "pred": "negative",
+    "prob": [
+      0.9593348843592846,
+      0.020701000649807594,
+      0.01996411499090763
+    ]
+  },
+  {
+    "text": "sw okay fine average 134",
+    "pred": "neutral",
+    "prob": [
+      0.005505457494201082,
+      0.9890362080226595,
+      0.0054583344831392894
+    ]
+  },
+  {
+    "text": "sw good excellent love amazing 50",
+    "pred": "positive",
+    "prob": [
+      0.03395813020858578,
+      0.03490472830650682,
+      0.9311371414849073
+    ]
+  },
+  {
+    "text": "en okay fine average 80",
+    "pred": "neutral",
+    "prob": [
+      0.028773205572292477,
+      0.9449672121193007,
+      0.026259582308406824
+    ]
+  },
+  {
+    "text": "en good excellent love amazing 2",
+    "pred": "positive",
+    "prob": [
+      0.0058990230572676765,
+      0.005680452920180383,
+      0.988420524022552
+    ]
+  },
+  {
+    "text": "sw good excellent love amazing 129",
+    "pred": "positive",
+    "prob": [
+      0.020267152807811908,
+      0.020506893071641028,
+      0.959225954120547
+    ]
+  },
+  {
+    "text": "en okay fine average 5",
+    "pred": "neutral",
+    "prob": [
+      0.007377070574241339,
+      0.9857829628074208,
+      0.0068399666183376895
+    ]
+  },
+  {
+    "text": "am good excellent love amazing 36",
+    "pred": "positive",
+    "prob": [
+      0.030573526332775013,
+      0.03402824281593218,
+      0.9353982308512929
+    ]
+  },
+  {
+    "text": "am bad terrible hate awful 25",
+    "pred": "negative",
+    "prob": [
+      0.9266810298487265,
+      0.036967207582791914,
+      0.0363517625684815
+    ]
+  }
+]

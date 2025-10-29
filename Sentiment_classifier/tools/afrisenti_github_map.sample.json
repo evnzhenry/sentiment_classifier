@@ -1,0 +1,14 @@
+{
+  "sw": {
+    "train": "https://raw.githubusercontent.com/afrisenti-semeval/afrisent-semeval-2023/main/datasets/sw/train.tsv",
+    "dev": "https://raw.githubusercontent.com/afrisenti-semeval/afrisent-semeval-2023/main/datasets/sw/dev.tsv"
+  },
+  "am": {
+    "train": "https://raw.githubusercontent.com/afrisenti-semeval/afrisent-semeval-2023/main/datasets/am/train.tsv",
+    "dev": "https://raw.githubusercontent.com/afrisenti-semeval/afrisent-semeval-2023/main/datasets/am/dev.tsv"
+  },
+  "en": {
+    "train": "https://raw.githubusercontent.com/afrisenti-semeval/afrisent-semeval-2023/main/datasets/en/train.tsv",
+    "dev": "https://raw.githubusercontent.com/afrisenti-semeval/afrisent-semeval-2023/main/datasets/en/dev.tsv"
+  }
+}

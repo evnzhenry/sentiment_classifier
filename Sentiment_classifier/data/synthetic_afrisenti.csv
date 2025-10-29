@@ -1,0 +1,451 @@
+tweet_id,text,language,label
+sw_0,sw good excellent love amazing 0,sw,positive
+sw_1,sw bad terrible hate awful 1,sw,negative
+sw_2,sw good excellent love amazing 2,sw,positive
+sw_3,sw good excellent love amazing 3,sw,positive
+sw_4,sw bad terrible hate awful 4,sw,negative
+sw_5,sw okay fine average 5,sw,neutral
+sw_6,sw bad terrible hate awful 6,sw,negative
+sw_7,sw good excellent love amazing 7,sw,positive
+sw_8,sw okay fine average 8,sw,neutral
+sw_9,sw bad terrible hate awful 9,sw,negative
+sw_10,sw okay fine average 10,sw,neutral
+sw_11,sw bad terrible hate awful 11,sw,negative
+sw_12,sw good excellent love amazing 12,sw,positive
+sw_13,sw okay fine average 13,sw,neutral
+sw_14,sw good excellent love amazing 14,sw,positive
+sw_15,sw bad terrible hate awful 15,sw,negative
+sw_16,sw good excellent love amazing 16,sw,positive
+sw_17,sw okay fine average 17,sw,neutral
+sw_18,sw okay fine average 18,sw,neutral
+sw_19,sw good excellent love amazing 19,sw,positive
+sw_20,sw good excellent love amazing 20,sw,positive
+sw_21,sw good excellent love amazing 21,sw,positive
+sw_22,sw good excellent love amazing 22,sw,positive
+sw_23,sw bad terrible hate awful 23,sw,negative
+sw_24,sw okay fine average 24,sw,neutral
+sw_25,sw bad terrible hate awful 25,sw,negative
+sw_26,sw okay fine average 26,sw,neutral
+sw_27,sw okay fine average 27,sw,neutral
+sw_28,sw good excellent love amazing 28,sw,positive
+sw_29,sw okay fine average 29,sw,neutral
+sw_30,sw bad terrible hate awful 30,sw,negative
+sw_31,sw okay fine average 31,sw,neutral
+sw_32,sw good excellent love amazing 32,sw,positive
+sw_33,sw okay fine average 33,sw,neutral
+sw_34,sw bad terrible hate awful 34,sw,negative
+sw_35,sw okay fine average 35,sw,neutral
+sw_36,sw good excellent love amazing 36,sw,positive
+sw_37,sw okay fine average 37,sw,neutral
+sw_38,sw bad terrible hate awful 38,sw,negative
+sw_39,sw good excellent love amazing 39,sw,positive
+sw_40,sw good excellent love amazing 40,sw,positive
+sw_41,sw bad terrible hate awful 41,sw,negative
+sw_42,sw okay fine average 42,sw,neutral
+sw_43,sw good excellent love amazing 43,sw,positive
+sw_44,sw bad terrible hate awful 44,sw,negative
+sw_45,sw good excellent love amazing 45,sw,positive
+sw_46,sw good excellent love amazing 46,sw,positive
+sw_47,sw okay fine average 47,sw,neutral
+sw_48,sw good excellent love amazing 48,sw,positive
+sw_49,sw good excellent love amazing 49,sw,positive
+sw_50,sw good excellent love amazing 50,sw,positive
+sw_51,sw okay fine average 51,sw,neutral
+sw_52,sw good excellent love amazing 52,sw,positive
+sw_53,sw okay fine average 53,sw,neutral
+sw_54,sw good excellent love amazing 54,sw,positive
+sw_55,sw good excellent love amazing 55,sw,positive
+sw_56,sw okay fine average 56,sw,neutral
+sw_57,sw bad terrible hate awful 57,sw,negative
+sw_58,sw bad terrible hate awful 58,sw,negative
+sw_59,sw okay fine average 59,sw,neutral
+sw_60,sw okay fine average 60,sw,neutral
+sw_61,sw good excellent love amazing 61,sw,positive
+sw_62,sw bad terrible hate awful 62,sw,negative
+sw_63,sw bad terrible hate awful 63,sw,negative
+sw_64,sw okay fine average 64,sw,neutral
+sw_65,sw good excellent love amazing 65,sw,positive
+sw_66,sw good excellent love amazing 66,sw,positive
+sw_67,sw okay fine average 67,sw,neutral
+sw_68,sw bad terrible hate awful 68,sw,negative
+sw_69,sw bad terrible hate awful 69,sw,negative
+sw_70,sw okay fine average 70,sw,neutral
+sw_71,sw good excellent love amazing 71,sw,positive
+sw_72,sw bad terrible hate awful 72,sw,negative
+sw_73,sw okay fine average 73,sw,neutral
+sw_74,sw bad terrible hate awful 74,sw,negative
+sw_75,sw bad terrible hate awful 75,sw,negative
+sw_76,sw good excellent love amazing 76,sw,positive
+sw_77,sw good excellent love amazing 77,sw,positive
+sw_78,sw bad terrible hate awful 78,sw,negative
+sw_79,sw okay fine average 79,sw,neutral
+sw_80,sw bad terrible hate awful 80,sw,negative
+sw_81,sw okay fine average 81,sw,neutral
+sw_82,sw bad terrible hate awful 82,sw,negative
+sw_83,sw bad terrible hate awful 83,sw,negative
+sw_84,sw okay fine average 84,sw,neutral
+sw_85,sw bad terrible hate awful 85,sw,negative
+sw_86,sw bad terrible hate awful 86,sw,negative
+sw_87,sw okay fine average 87,sw,neutral
+sw_88,sw okay fine average 88,sw,neutral
+sw_89,sw good excellent love amazing 89,sw,positive
+sw_90,sw good excellent love amazing 90,sw,positive
+sw_91,sw good excellent love amazing 91,sw,positive
+sw_92,sw okay fine average 92,sw,neutral
+sw_93,sw good excellent love amazing 93,sw,positive
+sw_94,sw good excellent love amazing 94,sw,positive
+sw_95,sw okay fine average 95,sw,neutral
+sw_96,sw okay fine average 96,sw,neutral
+sw_97,sw okay fine average 97,sw,neutral
+sw_98,sw okay fine average 98,sw,neutral
+sw_99,sw okay fine average 99,sw,neutral
+sw_100,sw good excellent love amazing 100,sw,positive
+sw_101,sw good excellent love amazing 101,sw,positive
+sw_102,sw bad terrible hate awful 102,sw,negative
+sw_103,sw okay fine average 103,sw,neutral
+sw_104,sw okay fine average 104,sw,neutral
+sw_105,sw bad terrible hate awful 105,sw,negative
+sw_106,sw bad terrible hate awful 106,sw,negative
+sw_107,sw bad terrible hate awful 107,sw,negative
+sw_108,sw bad terrible hate awful 108,sw,negative
+sw_109,sw good excellent love amazing 109,sw,positive
+sw_110,sw good excellent love amazing 110,sw,positive
+sw_111,sw bad terrible hate awful 111,sw,negative
+sw_112,sw bad terrible hate awful 112,sw,negative
+sw_113,sw bad terrible hate awful 113,sw,negative
+sw_114,sw bad terrible hate awful 114,sw,negative
+sw_115,sw okay fine average 115,sw,neutral
+sw_116,sw good excellent love amazing 116,sw,positive
+sw_117,sw bad terrible hate awful 117,sw,negative
+sw_118,sw okay fine average 118,sw,neutral
+sw_119,sw okay fine average 119,sw,neutral
+sw_120,sw bad terrible hate awful 120,sw,negative
+sw_121,sw good excellent love amazing 121,sw,positive
+sw_122,sw good excellent love amazing 122,sw,positive
+sw_123,sw good excellent love amazing 123,sw,positive
+sw_124,sw good excellent love amazing 124,sw,positive
+sw_125,sw bad terrible hate awful 125,sw,negative
+sw_126,sw good excellent love amazing 126,sw,positive
+sw_127,sw bad terrible hate awful 127,sw,negative
+sw_128,sw good excellent love amazing 128,sw,positive
+sw_129,sw good excellent love amazing 129,sw,positive
+sw_130,sw okay fine average 130,sw,neutral
+sw_131,sw okay fine average 131,sw,neutral
+sw_132,sw good excellent love amazing 132,sw,positive
+sw_133,sw good excellent love amazing 133,sw,positive
+sw_134,sw okay fine average 134,sw,neutral
+sw_135,sw bad terrible hate awful 135,sw,negative
+sw_136,sw good excellent love amazing 136,sw,positive
+sw_137,sw bad terrible hate awful 137,sw,negative
+sw_138,sw okay fine average 138,sw,neutral
+sw_139,sw bad terrible hate awful 139,sw,negative
+sw_140,sw bad terrible hate awful 140,sw,negative
+sw_141,sw good excellent love amazing 141,sw,positive
+sw_142,sw bad terrible hate awful 142,sw,negative
+sw_143,sw good excellent love amazing 143,sw,positive
+sw_144,sw bad terrible hate awful 144,sw,negative
+sw_145,sw good excellent love amazing 145,sw,positive
+sw_146,sw bad terrible hate awful 146,sw,negative
+sw_147,sw okay fine average 147,sw,neutral
+sw_148,sw good excellent love amazing 148,sw,positive
+sw_149,sw bad terrible hate awful 149,sw,negative
+am_0,am okay fine average 0,am,neutral
+am_1,am okay fine average 1,am,neutral
+am_2,am okay fine average 2,am,neutral
+am_3,am bad terrible hate awful 3,am,negative
+am_4,am good excellent love amazing 4,am,positive
+am_5,am bad terrible hate awful 5,am,negative
+am_6,am bad terrible hate awful 6,am,negative
+am_7,am good excellent love amazing 7,am,positive
+am_8,am okay fine average 8,am,neutral
+am_9,am bad terrible hate awful 9,am,negative
+am_10,am bad terrible hate awful 10,am,negative
+am_11,am okay fine average 11,am,neutral
+am_12,am good excellent love amazing 12,am,positive
+am_13,am bad terrible hate awful 13,am,negative
+am_14,am okay fine average 14,am,neutral
+am_15,am okay fine average 15,am,neutral
+am_16,am okay fine average 16,am,neutral
+am_17,am good excellent love amazing 17,am,positive
+am_18,am good excellent love amazing 18,am,positive
+am_19,am good excellent love amazing 19,am,positive
+am_20,am bad terrible hate awful 20,am,negative
+am_21,am good excellent love amazing 21,am,positive
+am_22,am bad terrible hate awful 22,am,negative
+am_23,am okay fine average 23,am,neutral
+am_24,am okay fine average 24,am,neutral
+am_25,am bad terrible hate awful 25,am,negative
+am_26,am good excellent love amazing 26,am,positive
+am_27,am bad terrible hate awful 27,am,negative
+am_28,am bad terrible hate awful 28,am,negative
+am_29,am bad terrible hate awful 29,am,negative
+am_30,am bad terrible hate awful 30,am,negative
+am_31,am okay fine average 31,am,neutral
+am_32,am okay fine average 32,am,neutral
+am_33,am bad terrible hate awful 33,am,negative
+am_34,am bad terrible hate awful 34,am,negative
+am_35,am bad terrible hate awful 35,am,negative
+am_36,am good excellent love amazing 36,am,positive
+am_37,am bad terrible hate awful 37,am,negative
+am_38,am good excellent love amazing 38,am,positive
+am_39,am good excellent love amazing 39,am,positive
+am_40,am okay fine average 40,am,neutral
+am_41,am okay fine average 41,am,neutral
+am_42,am okay fine average 42,am,neutral
+am_43,am okay fine average 43,am,neutral
+am_44,am good excellent love amazing 44,am,positive
+am_45,am good excellent love amazing 45,am,positive
+am_46,am bad terrible hate awful 46,am,negative
+am_47,am okay fine average 47,am,neutral
+am_48,am good excellent love amazing 48,am,positive
+am_49,am bad terrible hate awful 49,am,negative
+am_50,am good excellent love amazing 50,am,positive
+am_51,am okay fine average 51,am,neutral
+am_52,am good excellent love amazing 52,am,positive
+am_53,am okay fine average 53,am,neutral
+am_54,am okay fine average 54,am,neutral
+am_55,am bad terrible hate awful 55,am,negative
+am_56,am good excellent love amazing 56,am,positive
+am_57,am good excellent love amazing 57,am,positive
+am_58,am good excellent love amazing 58,am,positive
+am_59,am good excellent love amazing 59,am,positive
+am_60,am okay fine average 60,am,neutral
+am_61,am okay fine average 61,am,neutral
+am_62,am okay fine average 62,am,neutral
+am_63,am bad terrible hate awful 63,am,negative
+am_64,am good excellent love amazing 64,am,positive
+am_65,am good excellent love amazing 65,am,positive
+am_66,am good excellent love amazing 66,am,positive
+am_67,am good excellent love amazing 67,am,positive
+am_68,am good excellent love amazing 68,am,positive
+am_69,am bad terrible hate awful 69,am,negative
+am_70,am bad terrible hate awful 70,am,negative
+am_71,am okay fine average 71,am,neutral
+am_72,am good excellent love amazing 72,am,positive
+am_73,am bad terrible hate awful 73,am,negative
+am_74,am good excellent love amazing 74,am,positive
+am_75,am okay fine average 75,am,neutral
+am_76,am bad terrible hate awful 76,am,negative
+am_77,am good excellent love amazing 77,am,positive
+am_78,am bad terrible hate awful 78,am,negative
+am_79,am bad terrible hate awful 79,am,negative
+am_80,am okay fine average 80,am,neutral
+am_81,am good excellent love amazing 81,am,positive
+am_82,am good excellent love amazing 82,am,positive
+am_83,am good excellent love amazing 83,am,positive
+am_84,am okay fine average 84,am,neutral
+am_85,am bad terrible hate awful 85,am,negative
+am_86,am good excellent love amazing 86,am,positive
+am_87,am bad terrible hate awful 87,am,negative
+am_88,am good excellent love amazing 88,am,positive
+am_89,am okay fine average 89,am,neutral
+am_90,am good excellent love amazing 90,am,positive
+am_91,am okay fine average 91,am,neutral
+am_92,am good excellent love amazing 92,am,positive
+am_93,am good excellent love amazing 93,am,positive
+am_94,am bad terrible hate awful 94,am,negative
+am_95,am good excellent love amazing 95,am,positive
+am_96,am good excellent love amazing 96,am,positive
+am_97,am bad terrible hate awful 97,am,negative
+am_98,am bad terrible hate awful 98,am,negative
+am_99,am good excellent love amazing 99,am,positive
+am_100,am okay fine average 100,am,neutral
+am_101,am bad terrible hate awful 101,am,negative
+am_102,am good excellent love amazing 102,am,positive
+am_103,am good excellent love amazing 103,am,positive
+am_104,am bad terrible hate awful 104,am,negative
+am_105,am good excellent love amazing 105,am,positive
+am_106,am good excellent love amazing 106,am,positive
+am_107,am bad terrible hate awful 107,am,negative
+am_108,am okay fine average 108,am,neutral
+am_109,am okay fine average 109,am,neutral
+am_110,am good excellent love amazing 110,am,positive
+am_111,am okay fine average 111,am,neutral
+am_112,am good excellent love amazing 112,am,positive
+am_113,am okay fine average 113,am,neutral
+am_114,am good excellent love amazing 114,am,positive
+am_115,am good excellent love amazing 115,am,positive
+am_116,am okay fine average 116,am,neutral
+am_117,am good excellent love amazing 117,am,positive
+am_118,am bad terrible hate awful 118,am,negative
+am_119,am okay fine average 119,am,neutral
+am_120,am bad terrible hate awful 120,am,negative
+am_121,am good excellent love amazing 121,am,positive
+am_122,am good excellent love amazing 122,am,positive
+am_123,am okay fine average 123,am,neutral
+am_124,am okay fine average 124,am,neutral
+am_125,am good excellent love amazing 125,am,positive
+am_126,am good excellent love amazing 126,am,positive
+am_127,am good excellent love amazing 127,am,positive
+am_128,am okay fine average 128,am,neutral
+am_129,am good excellent love amazing 129,am,positive
+am_130,am okay fine average 130,am,neutral
+am_131,am bad terrible hate awful 131,am,negative
+am_132,am okay fine average 132,am,neutral
+am_133,am bad terrible hate awful 133,am,negative
+am_134,am bad terrible hate awful 134,am,negative
+am_135,am okay fine average 135,am,neutral
+am_136,am good excellent love amazing 136,am,positive
+am_137,am okay fine average 137,am,neutral
+am_138,am good excellent love amazing 138,am,positive
+am_139,am okay fine average 139,am,neutral
+am_140,am okay fine average 140,am,neutral
+am_141,am okay fine average 141,am,neutral
+am_142,am good excellent love amazing 142,am,positive
+am_143,am bad terrible hate awful 143,am,negative
+am_144,am bad terrible hate awful 144,am,negative
+am_145,am bad terrible hate awful 145,am,negative
+am_146,am bad terrible hate awful 146,am,negative
+am_147,am okay fine average 147,am,neutral
+am_148,am bad terrible hate awful 148,am,negative
+am_149,am okay fine average 149,am,neutral
+en_0,en good excellent love amazing 0,en,positive
+en_1,en good excellent love amazing 1,en,positive
+en_2,en good excellent love amazing 2,en,positive
+en_3,en okay fine average 3,en,neutral
+en_4,en okay fine average 4,en,neutral
+en_5,en okay fine average 5,en,neutral
+en_6,en good excellent love amazing 6,en,positive
+en_7,en bad terrible hate awful 7,en,negative
+en_8,en okay fine average 8,en,neutral
+en_9,en bad terrible hate awful 9,en,negative
+en_10,en good excellent love amazing 10,en,positive
+en_11,en good excellent love amazing 11,en,positive
+en_12,en good excellent love amazing 12,en,positive
+en_13,en okay fine average 13,en,neutral
+en_14,en bad terrible hate awful 14,en,negative
+en_15,en okay fine average 15,en,neutral
+en_16,en okay fine average 16,en,neutral
+en_17,en bad terrible hate awful 17,en,negative
+en_18,en bad terrible hate awful 18,en,negative
+en_19,en bad terrible hate awful 19,en,negative
+en_20,en okay fine average 20,en,neutral
+en_21,en bad terrible hate awful 21,en,negative
+en_22,en good excellent love amazing 22,en,positive
+en_23,en bad terrible hate awful 23,en,negative
+en_24,en okay fine average 24,en,neutral
+en_25,en good excellent love amazing 25,en,positive
+en_26,en bad terrible hate awful 26,en,negative
+en_27,en okay fine average 27,en,neutral
+en_28,en bad terrible hate awful 28,en,negative
+en_29,en good excellent love amazing 29,en,positive
+en_30,en good excellent love amazing 30,en,positive
+en_31,en okay fine average 31,en,neutral
+en_32,en okay fine average 32,en,neutral
+en_33,en bad terrible hate awful 33,en,negative
+en_34,en okay fine average 34,en,neutral
+en_35,en okay fine average 35,en,neutral
+en_36,en okay fine average 36,en,neutral
+en_37,en good excellent love amazing 37,en,positive
+en_38,en okay fine average 38,en,neutral
+en_39,en bad terrible hate awful 39,en,negative
+en_40,en bad terrible hate awful 40,en,negative
+en_41,en good excellent love amazing 41,en,positive
+en_42,en good excellent love amazing 42,en,positive
+en_43,en bad terrible hate awful 43,en,negative
+en_44,en good excellent love amazing 44,en,positive
+en_45,en good excellent love amazing 45,en,positive
+en_46,en good excellent love amazing 46,en,positive
+en_47,en bad terrible hate awful 47,en,negative
+en_48,en bad terrible hate awful 48,en,negative
+en_49,en okay fine average 49,en,neutral
+en_50,en bad terrible hate awful 50,en,negative
+en_51,en bad terrible hate awful 51,en,negative
+en_52,en good excellent love amazing 52,en,positive
+en_53,en bad terrible hate awful 53,en,negative
+en_54,en bad terrible hate awful 54,en,negative
+en_55,en okay fine average 55,en,neutral
+en_56,en bad terrible hate awful 56,en,negative
+en_57,en good excellent love amazing 57,en,positive
+en_58,en bad terrible hate awful 58,en,negative
+en_59,en bad terrible hate awful 59,en,negative
+en_60,en okay fine average 60,en,neutral
+en_61,en bad terrible hate awful 61,en,negative
+en_62,en good excellent love amazing 62,en,positive
+en_63,en good excellent love amazing 63,en,positive
+en_64,en okay fine average 64,en,neutral
+en_65,en good excellent love amazing 65,en,positive
+en_66,en bad terrible hate awful 66,en,negative
+en_67,en bad terrible hate awful 67,en,negative
+en_68,en good excellent love amazing 68,en,positive
+en_69,en good excellent love amazing 69,en,positive
+en_70,en bad terrible hate awful 70,en,negative
+en_71,en bad terrible hate awful 71,en,negative
+en_72,en bad terrible hate awful 72,en,negative
+en_73,en bad terrible hate awful 73,en,negative
+en_74,en okay fine average 74,en,neutral
+en_75,en bad terrible hate awful 75,en,negative
+en_76,en bad terrible hate awful 76,en,negative
+en_77,en good excellent love amazing 77,en,positive
+en_78,en bad terrible hate awful 78,en,negative
+en_79,en bad terrible hate awful 79,en,negative
+en_80,en okay fine average 80,en,neutral
+en_81,en bad terrible hate awful 81,en,negative
+en_82,en good excellent love amazing 82,en,positive
+en_83,en bad terrible hate awful 83,en,negative
+en_84,en okay fine average 84,en,neutral
+en_85,en bad terrible hate awful 85,en,negative
+en_86,en okay fine average 86,en,neutral
+en_87,en bad terrible hate awful 87,en,negative
+en_88,en bad terrible hate awful 88,en,negative
+en_89,en okay fine average 89,en,neutral
+en_90,en good excellent love amazing 90,en,positive
+en_91,en bad terrible hate awful 91,en,negative
+en_92,en good excellent love amazing 92,en,positive
+en_93,en good excellent love amazing 93,en,positive
+en_94,en bad terrible hate awful 94,en,negative
+en_95,en bad terrible hate awful 95,en,negative
+en_96,en bad terrible hate awful 96,en,negative
+en_97,en good excellent love amazing 97,en,positive
+en_98,en okay fine average 98,en,neutral
+en_99,en bad terrible hate awful 99,en,negative
+en_100,en good excellent love amazing 100,en,positive
+en_101,en okay fine average 101,en,neutral
+en_102,en good excellent love amazing 102,en,positive
+en_103,en bad terrible hate awful 103,en,negative
+en_104,en okay fine average 104,en,neutral
+en_105,en okay fine average 105,en,neutral
+en_106,en okay fine average 106,en,neutral
+en_107,en bad terrible hate awful 107,en,negative
+en_108,en bad terrible hate awful 108,en,negative
+en_109,en okay fine average 109,en,neutral
+en_110,en okay fine average 110,en,neutral
+en_111,en bad terrible hate awful 111,en,negative
+en_112,en good excellent love amazing 112,en,positive
+en_113,en good excellent love amazing 113,en,positive
+en_114,en okay fine average 114,en,neutral
+en_115,en bad terrible hate awful 115,en,negative
+en_116,en good excellent love amazing 116,en,positive
+en_117,en good excellent love amazing 117,en,positive
+en_118,en good excellent love amazing 118,en,positive
+en_119,en okay fine average 119,en,neutral
+en_120,en okay fine average 120,en,neutral
+en_121,en okay fine average 121,en,neutral
+en_122,en bad terrible hate awful 122,en,negative
+en_123,en bad terrible hate awful 123,en,negative
+en_124,en good excellent love amazing 124,en,positive
+en_125,en good excellent love amazing 125,en,positive
+en_126,en bad terrible hate awful 126,en,negative
+en_127,en okay fine average 127,en,neutral
+en_128,en good excellent love amazing 128,en,positive
+en_129,en bad terrible hate awful 129,en,negative
+en_130,en okay fine average 130,en,neutral
+en_131,en bad terrible hate awful 131,en,negative
+en_132,en good excellent love amazing 132,en,positive
+en_133,en bad terrible hate awful 133,en,negative
+en_134,en bad terrible hate awful 134,en,negative
+en_135,en good excellent love amazing 135,en,positive
+en_136,en good excellent love amazing 136,en,positive
+en_137,en okay fine average 137,en,neutral
+en_138,en bad terrible hate awful 138,en,negative
+en_139,en good excellent love amazing 139,en,positive
+en_140,en okay fine average 140,en,neutral
+en_141,en okay fine average 141,en,neutral
+en_142,en bad terrible hate awful 142,en,negative
+en_143,en good excellent love amazing 143,en,positive
+en_144,en okay fine average 144,en,neutral
+en_145,en okay fine average 145,en,neutral
+en_146,en bad terrible hate awful 146,en,negative
+en_147,en bad terrible hate awful 147,en,negative
+en_148,en bad terrible hate awful 148,en,negative
+en_149,en good excellent love amazing 149,en,positive

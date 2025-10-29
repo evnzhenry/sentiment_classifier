@@ -1,0 +1,12 @@
+- Exec: Dataset coverage, initial F1/accuracy, and infra assumptions (CPU/GPU).
+- KPIs: latency < 1h, macro-F1 ≥ baseline, coverage ≥ target langs.
+- Detail TF-IDF math, regularization in LogReg, calibration for SVC.
+- EDA details: label distribution, per-language counts, char/token stats.
+- PCA pending; include variance and loadings when generated.
+- Awaiting metrics; once ready, add thresholds for green/yellow/red statuses.
+- Infra: batch inference on CPU, transformer finetuning on GPU when needed.
+- Owners, timelines, and dependency tracking.
+- Provide brief math references and citations.
+- Bias and fairness checks, data governance, opt-in/opt-out policies.
+- Define decision gates, budget, and resource allocations.
+- Detail cleaning steps and configuration options.
